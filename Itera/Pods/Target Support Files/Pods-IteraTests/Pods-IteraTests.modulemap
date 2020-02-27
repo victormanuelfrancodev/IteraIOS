@@ -1,0 +1,6 @@
+framework module Pods_IteraTests {
+  umbrella header "Pods-IteraTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
